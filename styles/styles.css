@@ -39,3 +39,6 @@
 .clearfix::after {
   clear: both;
 }
+.color {
+  background-color: yellow !important;
+}
